@@ -70,7 +70,7 @@
 
 #mainMenu li a:hover,
 #mainMenu li a.here {
-  color: #65EBFF;
+  color: #B47EDE;
   border-top: 5px solid #000;
 }
 
@@ -108,7 +108,7 @@ ul.sideMenu {
 } 
 
 .sideMenu li a:hover {
-  color: #65EBFF;
+  color: #B47EDE;
   background: #5F5F5F;
 }
 
@@ -116,7 +116,7 @@ ul.sideMenu {
 .sideMenu li.here {
   display: block;  
   padding: 5px;
-  color: #65EBFF;
+  color: #B47EDE;
   background: #555;
 }
 
