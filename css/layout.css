@@ -288,7 +288,7 @@ ul.sideMenu {
 
 .gradient {
   margin-bottom: 2em;
-  background: #555 url(../images/bg/gradient.jpg) repeat-x bottom left; 
+  background: url(../images/background.jpg); 
 }
 
 
