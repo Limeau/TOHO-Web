@@ -146,6 +146,14 @@ ul.sideMenu {
 
 #page {
   float: left;
+  width: 100%;
+  clear: both;
+  
+  padding-bottom: 4em;
+}
+
+#pagecenter {
+  float: left;
   text-align: center;
   width: 100%;
   clear: both;
