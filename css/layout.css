@@ -154,12 +154,12 @@ ul.sideMenu {
  **************************************************************/
 
 #page {
-  display: flex;
-  flex-direction: column;
+  float: left;
+  text-align: left
   width: 100%;
+  clear: both;
   align-items: stretch;
   padding-bottom: 4em;
-  text-align: left;
 }
 
 #pagecenter {
