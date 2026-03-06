@@ -129,7 +129,7 @@ code {
   line-height: 120%;
   white-space: pre;
   
-  background: #444;
+  background: url(../images/background.jpg);
 }
 
 .leftColumn code {
