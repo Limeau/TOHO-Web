@@ -229,11 +229,11 @@ ul.sideMenu {
  **************************************************************/
 
 .floatLeft {
-  float: left;
+  align-self: flex-start;
 }
 
 .floatRight {
-  float: right;
+  margin-left: auto;
 }
 
 .alignLeft {
